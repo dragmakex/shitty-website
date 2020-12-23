@@ -1,0 +1,33 @@
+img {
+    height: 250px;
+    width: 360px;
+}
+
+body {
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    background-image:url('./files/stars.gif');
+    background-size:100%;
+    background-repeat: repeat-y;
+    background-attachment: fixed;
+    height:100%;
+    width:100%;
+}
+
+.rotate90 {
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+}
+
+.resize {
+  width:40px;
+  height:40px;
+}
+
+.resize1 {
+    width:53.3px;
+    height:40px;
+}
