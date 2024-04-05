@@ -2,4 +2,4 @@
 Personal website
 
 
-This my small personal website where I just create a bunch of random things!
+Extremely old shitty website, which I needed to activate for a party.
